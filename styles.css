@@ -18,7 +18,9 @@ body {
     text-align: center;
 }
 .button {
-    padding: 20px;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
     
 }
 

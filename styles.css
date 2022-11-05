@@ -37,9 +37,6 @@ body {
 }
 
 @media(max-width:520px) {
-    body{
-        background-color: green;
-    }
     .button {
         gap: 20px;
     }
